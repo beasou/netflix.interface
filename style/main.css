@@ -44,4 +44,16 @@ header nav a:hover {
     url("/img/matrix.jpg");
   height: 500px;
   background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.filme-principal .descricao {
+  margin-bottom: 90px;
+}
+
+.titulo {
+  font-size: 40px;
 }
