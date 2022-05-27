@@ -1,4 +1,4 @@
-# netflix.interface
+# Interface da Netflix
 Recriando a interface da netflix, atividade desenvolvida no curso HTML Web Developer - Ofertado pela plataforma DIO-Digital Innovation One(https://web.dio.me/track/html-web-developer?tab=path);
 
 # DescriçÃo do curso:
